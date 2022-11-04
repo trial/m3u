@@ -1,0 +1,18 @@
+#EXTM3U
+
+#EXTINF:-1 logo="" group-title="NEWS" ,CNA 1080P
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 logo="" group-title="NEWS" ,CNA 720P
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 logo="" group-title="NEWS" ,Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 logo="" group-title="NEWS" ,TRT World
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 logo="" group-title="NEWS" ,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 logo="" group-title="NEWS" ,STIRR The First
+ttps://dai.google.com/linear/hls/pb/event/nX39-giHRPuKQiVAhua0Kg/stream/1b719610-4f0f-4f05-987f-31ca7237a844:TPE/variant/0730b7f4c724f7b65aa2fe4ebba9eb78/bandwidth/4944491.m3u8
+#EXTINF:-1 logo="" group-title="NEWS" ,FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 logo="" group-title="NEWS" ,CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_8.m3u8
