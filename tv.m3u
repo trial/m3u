@@ -11,7 +11,7 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 logo="" group-title="NEWS" ,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
 #EXTINF:-1 logo="" group-title="NEWS" ,STIRR The First
-ttps://dai.google.com/linear/hls/pb/event/nX39-giHRPuKQiVAhua0Kg/stream/1b719610-4f0f-4f05-987f-31ca7237a844:TPE/variant/0730b7f4c724f7b65aa2fe4ebba9eb78/bandwidth/4944491.m3u8
+https://dai.google.com/linear/hls/pb/event/nX39-giHRPuKQiVAhua0Kg/stream/1b719610-4f0f-4f05-987f-31ca7237a844:TPE/variant/0730b7f4c724f7b65aa2fe4ebba9eb78/bandwidth/4944491.m3u8
 #EXTINF:-1 logo="" group-title="NEWS" ,FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 logo="" group-title="NEWS" ,CBS News
