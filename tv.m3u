@@ -1,18 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png/1200px-CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="NEWS" ,CNA 1080P
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png/1200px-CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="NEWS" ,CNA 720P
+#EXTINF:-1 logo="https://raw.githubusercontent.com/trial/m3u/main/logo/CNA.jpg" group-title="NEWS" ,CNA 720P
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 logo="https://seeklogo.com/images/N/newsmax-logo-6FCD4C32F6-seeklogo.com.png" group-title="NEWS" ,Newsmax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1 logo="https://mma.prnewswire.com/media/545745/TRT_World_Logo.jpg" group-title="NEWS" ,TRT World
+#EXTINF:-1 logo="https://raw.githubusercontent.com/trial/m3u/main/logo/CNA.jpg" group-title="NEWS" ,CNA 1080P
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="NEWS" ,TAIWAN Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 logo="https://raw.githubusercontent.com/trial/m3u/main/logo/NHK_World.jpg" group-title="NEWS" ,NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 logo="https://raw.githubusercontent.com/trial/m3u/main/logo/TRT_World.jpg" group-title="NEWS" ,TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 logo="https://globalnews.ca/wp-content/uploads/2018/03/new_square-e1647018225390.png" group-title="NEWS" ,Global News
+#EXTINF:-1 logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Global_News.jpg" group-title="NEWS" ,Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Stirr_TV_logo.png/440px-Stirr_TV_logo.png" group-title="NEWS" ,STIRR The First
-https://dai.google.com/linear/hls/pb/event/nX39-giHRPuKQiVAhua0Kg/stream/1b719610-4f0f-4f05-987f-31ca7237a844:TPE/variant/0730b7f4c724f7b65aa2fe4ebba9eb78/bandwidth/4944491.m3u8
-#EXTINF:-1 logo="https://www.livenowfox.com/img/LiveNOW_LOGO_HORIZONTAL_2_COLOR_RGB_002.png" group-title="NEWS" ,FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 logo="https://assets2.cbsnewsstatic.com/hub/i/r/2022/01/19/e6521679-1e8a-4522-af30-b416193d8414/thumbnail/1280x720/bf32ff81a7966653519a0c98feb5d329/cbsnews-1920x1080.jpg" group-title="NEWS" ,CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_8.m3u8
+#EXTINF:-1 logo="https://raw.githubusercontent.com/trial/m3u/main/logo/BBC_News.jpg" group-title="NEWS" ,BBC News
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 logo="https://raw.githubusercontent.com/trial/m3u/main/logo/BBC_One.jpg" group-title="NEWS" ,BBC One
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 logo="https://raw.githubusercontent.com/trial/m3u/main/logo/BBC_Two.jpg" group-title="NEWS" ,BBC Two
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 logo="https://raw.githubusercontent.com/trial/m3u/main/logo/BBC_Three.jpg" group-title="NEWS" ,BBC Three
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 logo="https://raw.githubusercontent.com/trial/m3u/main/logo/BBC_Four.jpg" group-title="NEWS" ,BBC Four
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
