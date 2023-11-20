@@ -30,3 +30,5 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/FOX_News.jpg" group-title="NEWS",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/SKY_News.jpg" group-title="NEWS",SKY News (720p)
+https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_hd.m3u8
