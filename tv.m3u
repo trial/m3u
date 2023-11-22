@@ -46,3 +46,5 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/RT.jpg" group-title="NEWS",RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Newsmax.jpg" group-title="NEWS",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
