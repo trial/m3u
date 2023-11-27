@@ -20,3 +20,5 @@ https://mtoczko.github.io/hls-test-streams/test-vtt-x-map/playlist.m3u8
 https://dash.akamaized.net/akamai/bbb_30fps/bbb-manifest-refresh.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/tv.jpg"  ,RTMP
 rtmp://ns8.indexforce.com/home/mystream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/tv.jpg"  ,FLV
+https://www.tootootool.com/wp-content/uploads/2020/11/SampleVideo_1280x720_1mb.flv
