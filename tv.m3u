@@ -15,7 +15,7 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/BBC_News.jpg" group-title="NEWS" ,BBC News[Geo-blocked]
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/BBC_One.jpg" group-title="NEWS" ,BBC One[Geo-blocked]
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+http://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/BBC_Two.jpg" group-title="NEWS" ,BBC Two[Geo-blocked]
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBCThree.uk" tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/BBC_Three.jpg" group-title="NEWS" ,BBC Three[Geo-blocked]
