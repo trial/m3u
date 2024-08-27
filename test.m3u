@@ -22,3 +22,21 @@ https://dash.akamaized.net/akamai/bbb_30fps/bbb-manifest-refresh.mpd
 rtmp://ns8.indexforce.com/home/mystream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/tv.jpg"  ,FLV
 https://www.tootootool.com/wp-content/uploads/2020/11/SampleVideo_1280x720_1mb.flv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/tv.jpg"  ,avs2-mkv video
+https://github.com/xatabhk/avs2-avs3-video-samples/raw/master/Beijing%202022%20winter%20olympics%20emblem_avs2.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/tv.jpg"  ,AVS2 10bit 4K AC3
+https://github.com/xatabhk/avs2-avs3-video-samples/rawb/master/CCTV4K.AVS2-10bit.AC3.CB.08-27-6s.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/tv.jpg"  ,AVS3 8K 10bit HDR video
+https://github.com/xatabhk/avs2-avs3-video-samples/raw/master/CCTV8K.AVS3.MP2.CB_HDR_avs3_2s.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/tv.jpg"  ,avs3 4K 10bit HDR
+https://github.com/xatabhk/avs2-avs3-video-samples/raw/master/HDR-JNDNet_Test_qp37_avs3_HDR.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/tv.jpg"  ,AVS3 10bit HDR
+https://github.com/xatabhk/avs2-avs3-video-samples/raw/master/HDR10Plus_PA_DTSX_768x432_HDR_avs3_20s.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/tv.jpg"  ,avs2 4K HDR DTS
+https://github.com/xatabhk/avs2-avs3-video-samples/raw/master/HDR10Plus_PA_DTSX_avs2_4K_18s.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/tv.jpg"  ,avs2-mkv video
+https://github.com/xatabhk/avs2-avs3-video-samples/raw/master/WindTurbines4_1080p_avs2_9.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/tv.jpg"  ,	avs3-mkv video
+https://github.com/xatabhk/avs2-avs3-video-samples/raw/master/WindTurbines4_1080p_avs3.mkv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/tv.jpg"  ,avs3-mkv 10bit
+https://github.com/xatabhk/avs2-avs3-video-samples/raw/master/jellyfish-640x360-avs3-10bit.mkv
